@@ -1,4 +1,4 @@
 Analysis pipeline for unsupervised classification of pulse shapes.
-Open [results](https://postpop.github.io/pulseTypePipeline/). See `demo.mlx` for the code.
+Description hosted [here](https://postpop.github.io/pulseTypePipeline/). See `index.mlx` for the underlying code.
 
 
